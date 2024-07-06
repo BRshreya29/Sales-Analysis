@@ -53,7 +53,7 @@ After deploying the initial dashboard, the sales director provided feedback, lea
 This project offered me a real-world example of how data analysis and visualization can drive business decisions. By following the steps outlined, I gained hands-on experience in project planning, data discovery, ETL processes, and creating actionable insights through Tableau dashboards. In future I intend to take feedback and update the dashboard to have a better practical use case.
 
 ## Dashboard 
-![Alt text](URL)
+![Image of functional Dashboard](https://github.com/BRshreya29/Sales-Analysis/blob/main/Images%20of%20project%20execution/Tableau%20-%20Dashboard%201.png)
 
 ## Reference
 This project is performed under my own skills and taken a reference from Codebasics YouTube playlist.
