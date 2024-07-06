@@ -47,9 +47,7 @@ After deploying the initial dashboard, the sales director provided feedback, lea
 
 3. **Connect to Tableau**: Follow the steps to connect Tableau to your MySQL database.
 
-4. **Build and Customize the Dashboard**: Use the provided guidelines to build and customize your Tableau dashboard.
-
-5. **Publish and Iterate**: Publish the dashboard and iterate based on user feedback.
+4. **Publish and Iterate**: Publish the dashboard and iterate based on user feedback.
 
 ## Conclusion
 This project offered me a real-world example of how data analysis and visualization can drive business decisions. By following the steps outlined, I gained hands-on experience in project planning, data discovery, ETL processes, and creating actionable insights through Tableau dashboards.
